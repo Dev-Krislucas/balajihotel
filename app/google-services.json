@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95290609060",
+    "project_id": "internship-9e587",
+    "storage_bucket": "internship-9e587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95290609060:android:5e8457dfa6ffc235528531",
+        "android_client_info": {
+          "package_name": "com.example.jetpacktutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvs-jVbH8S4NQZEqnG29quSnmQpzCSTCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
